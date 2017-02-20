@@ -1,0 +1,16 @@
+{
+  "name": "vhall/app_alipay",
+  "description": "return app real pay code",
+  "authors": [{
+    "name": "GaoYan",
+    "email": "gaoyansing@sina.com"
+  }],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "AppAliPay": "src/"
+    }
+  }
+}
